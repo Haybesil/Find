@@ -51,7 +51,7 @@ const Homecard = () => {
           pColor="#233E60"
           buttonBgColor="#00588A"
           buttonLink="/medicine"
-          isSpinning={true}
+          // isSpinning={true}
         />
       </div>
       <div>
@@ -79,7 +79,7 @@ const Homecard = () => {
           pColor="#742D06"
           buttonBgColor="#664D36"
           buttonLink="/medicine"
-          isSpinning={true}
+          // isSpinning={true}
         />
       </div>
       <div>
@@ -93,7 +93,7 @@ const Homecard = () => {
           pColor="#742D06"
           buttonBgColor="#4A6640"
           buttonLink="/medicine"
-          isSpinning={true}
+          // isSpinning={true}
         />
       </div>
     </div>
